@@ -5,6 +5,12 @@
   <p>An Android head-unit CarPlay receiver. It supports connecting to the MFi chip through a CH341 I2C bridge or directly through the board's I2C controller, and supports both wired and wireless CarPlay connections.</p>
 </div>
 
+> [!IMPORTANT]
+> **Moved.** From 5 Nov 2026 this fork lives in the Binnacle repository as
+> [`carplay/`](https://github.com/lotech/binnacle/tree/main/carplay), with its full history, and is
+> released there with Binnacle as `BinnacleCarPlay.apk`. This `binnacle` branch is frozen at
+> 2fd7385 and no longer updated.
+
 > [!NOTE]
 > **This is a fork of [shilapi/xcertplay](https://github.com/shilapi/xcertplay)**, maintained for
 > aftermarket Tesla Model 3/Y cluster screens (Unisoc UMS512, Android 10 reporting itself as 12, MFi coprocessor on
